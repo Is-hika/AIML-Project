@@ -1,8 +1,7 @@
 # AIML-Project
 
-CLICK THE 🐼 FOR  LIVE DEMO: [  🐼   ](https://aiml-project-6szv6kktbemniqkywxvhvu.streamlit.app/)
+CLICK THE 🐼 FOR  LIVE DEMO: [  🐼   ](https://aiml-project-6szv6kktbemniqkywxvhvu.streamlit.app/) / LINK: https://aiml-project-6szv6kktbemniqkywxvhvu.streamlit.app/
 
-link:https://aiml-project-6szv6kktbemniqkywxvhvu.streamlit.app/
 
 
 # 🔐 Password Strength Detector
